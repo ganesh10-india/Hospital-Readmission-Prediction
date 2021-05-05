@@ -35,8 +35,3 @@ smote_data.csv
 ![Numerical_features](https://github.com/moggirain/Hospital_readmission_prediction/blob/master/Numerical_features.png)
 
  
-### Credits
-
-- Bhuvan, M.S., Kumar, A., Zafar, A. and Kishore, V., 2016. Identifying diabetic patients with high risk of readmission. *arXiv preprint arXiv:1602.04257*.
--  Mingle, D., Predicting Diabetic Readmission Rates: Moving Beyond HbA1c.
--  https://medium.com/berkeleyischool/how-to-use-machine-learning-to-predict-hospital-readmissions-part-1-bd137cbdba07
