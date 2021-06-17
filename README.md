@@ -35,3 +35,8 @@ smote_data.csv
 ![Numerical_features](https://github.com/moggirain/Hospital_readmission_prediction/blob/master/Numerical_features.png)
 
  
+### CONCLUSION
+In this work we adopted machine learning methods to identify high risk patients and evaluated different machine learning algorithms. Compared to the previous analysis, our
+study achieved high accuracy due to the sophisticated preprocessing procedure. The XGBoost method is reported to be the best method for prediction of the readmission rate for
+diabetes patients.
+We identified the most important factors as the time_in_hospital and number of inpatient, number of diagnosis, which appears to associate with the severity of the disease. Further studies could conduct more exploration when analyzing these factors individually. 
